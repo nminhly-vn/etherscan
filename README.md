@@ -45,17 +45,13 @@ This template follows a very simple project structure:
     - `components`: Folder to store component that you use through your module
     - `actions.js`: This file contains all actions that can be dispatched to redux.
     - `models.js`: This file contains all the constants used on the module.
-    - `reducers.js`: This file should have all your reducers, and expose the combined result using its `index.js`
+    - `reducers.js`: This file should have all your reducers, and expose the combined result
     - `handlers.js`: File to store all your network logic (you should have one handlers per module).
 
 - `utils`: Folder to store all common helpers that uses through your app
 - `assets`: Asset folder to store all images, icons, languages files, etc.
 - `common/store`: Folder to put all redux middlewares and the store.
 - `common/components`: File to store all common component that you use through your app
-
-## Splash screen customization
-
-To customize the splash screen (logo and background color) use the CLI provided in the [official docs](https://github.com/zoontek/react-native-bootsplash#assets-generation).
 
 ## Setup environments
 
