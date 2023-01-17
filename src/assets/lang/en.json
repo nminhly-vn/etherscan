@@ -1,0 +1,34 @@
+{
+  "common": {
+  },
+  "errors": {
+    
+  },
+  "messages": {
+  },
+  "page": {
+    "favourite": "Favourite",
+    "explorer": "Explorer",
+    "watchlist": "Watchlist",
+    "Explorer": "Explorer",
+    "favourite_desc": "This is favourite page"
+  },
+  "explorer": {
+    "welcome": "Welcome to Etherscan",
+    "welcome_desc": "Explore the price, balance and more on the Ethereum Network",
+    "search_placeholder": "Search by Address / Token / TxHash / Tag",
+    "erc20": "ERC-20",
+    "price": "Price",
+    "market_cap": "Market cap",
+    "total_supply": "Total Supply",
+    "contract": "Contract",
+    "view_more": "VIEW MORE DETAILS"
+  },
+  "watchlist": {
+    "your_watchlist": "Your Watchlist",
+    "your_watchlist_empty": "No item found!",
+    "value_in_eth": "Value in ETH",
+    "value_in_usd": "Value in USD",
+    "add_address_to_watchlist": "ADD ADDRESS TO WATCHLIST"
+  }
+}
